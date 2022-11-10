@@ -18,6 +18,7 @@
 - [Study](#Study)
 - [Security](#Security)
 - [Tool&&DEBUG](#Tool&&DEBUG)
+- [OperatingSystem](#OperatingSystem)
 
 ## BlockChain
 
@@ -77,3 +78,9 @@
 * [bkerler/tee_research](https://github.com/bkerler/tee_research) - Some useful ida and ghidra plugins for tee research.
 * [microsoft/Komodo](https://github.com/microsoft/Komodo) - Formally-verified reference monitor for a secure isolated execution ("enclave") environment on ARM TrustZone.
 * [nccgroup/cachegrab](https://github.com/nccgroup/cachegrab) - a tool designed to help perform and visualize trace-driven cache attacks against software in the secure world of TrustZone-enabled ARMv8 cores.
+
+## OperatingSystem
+
+*[OP-TEE/optee_os](https://github.com/OP-TEE/optee_os) - OP-TEE is a Trusted Execution Environment (TEE) designed as companion to a non-secure Linux kernel running on Arm; Cortex-A cores using the TrustZone technology. 
+*[WUSTL-CSPL/RT-TEE](https://github.com/WUSTL-CSPL/RT-TEE) - RT-TEE: Real-time System Availability for Cyber-physical Systems using ARM TrustZone.
+
